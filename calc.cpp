@@ -2,5 +2,5 @@
 
 void main()
 {
-cout<<"this is a calci program";
+cout<<"this is a calculator program";
 }
